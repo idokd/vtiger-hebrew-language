@@ -13,12 +13,12 @@
      ************************************************************************************/
     
 $languageStrings = array (
-  'Leads' => 'הובלות',
+  'Leads' => 'ליידים',
   'SINGLE_Leads' => 'להוביל',
   'LBL_RECORDS_LIST' => 'רשימת הפניות',
   'LBL_ADD_RECORD' => 'הוסף Lead',
-  'LBL_LEAD_INFORMATION' => 'פרטי עופרת',
-  'Lead No' => 'מספר עופרת',
+  'LBL_LEAD_INFORMATION' => 'פרטי לייד',
+  'Lead No' => 'מספר לייד',
   'Company' => 'החברה',
   'Designation' => 'ייעוד',
   'Website' => 'אתר אינטרנט',
@@ -39,8 +39,8 @@ $languageStrings = array (
   'Contact in Future' => 'צור קשר בעתיד',
   'Contacted' => 'צור קשר',
   'Hot' => 'חם',
-  'Junk Lead' => 'עופרת זבל',
-  'Lost Lead' => 'אבודים עופרת',
+  'Junk Lead' => 'לייד זבל',
+  'Lost Lead' => 'אבודים לייד',
   'Not Contacted' => 'לא צרו קשר',
   'Pre Qualified' => 'מוסמך מראש',
   'Qualified' => 'מוסמך',

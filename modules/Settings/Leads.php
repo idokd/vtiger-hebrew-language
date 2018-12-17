@@ -13,7 +13,7 @@
      ************************************************************************************/
     
 $languageStrings = array (
-  'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'המרת מיפוי עופרת',
+  'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'המרת מיפוי לייד',
   'LBL_ORGANIZATIONS' => 'ארגונים',
   'LBL_CONTACTS' => 'אנשי קשר',
   'LBL_OPPURTUNITIES' => 'אגודות',
