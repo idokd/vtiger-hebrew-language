@@ -1,0 +1,97 @@
+<?php 
+
+    /*+**********************************************************************************
+     * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+     * ("License"); You may not use this file except in compliance with the License
+     * The Original Code is: vtiger CRM Open Source
+     * The Initial Developer of the Original Code is vtiger.
+     * Portions created by vtiger are Copyright (C) vtiger.
+     * Portions created by Ido Kobelkowsky are Copyright (C) yalla ya!.
+     * All Rights Reserved.
+     *  ********************************************************************************
+     *  Author       : Ido Kobelkowsky
+     ************************************************************************************/
+    
+$languageStrings = array (
+  'HelpDesk' => 'כרטיסים',
+  'SINGLE_HelpDesk' => 'כרטיס',
+  'LBL_ADD_RECORD' => 'הוסף כרטיס',
+  'LBL_RECORDS_LIST' => 'רשימת כרטיסים',
+  'LBL_TICKET_INFORMATION' => 'מידע על כרטיסים',
+  'LBL_TICKET_RESOLUTION' => 'החלטת כרטיס',
+  'Ticket No' => 'מספר כרטיס',
+  'Severity' => 'חומרה',
+  'Update History' => 'עדכן היסטוריה',
+  'Hours' => 'שעות',
+  'Days' => 'ימים',
+  'Title' => 'כותרת',
+  'Solution' => 'פתרון',
+  'From Portal' => 'מפורטל',
+  'Related To' => 'שם ארגון',
+  'Contact Name' => 'שם איש קשר',
+  'Big Problem' => 'בעיה גדולה',
+  'Small Problem' => 'בעיה קטנה',
+  'Other Problem' => 'בעיה אחרת',
+  'Normal' => 'רגיל',
+  'High' => 'גבוהה',
+  'Urgent' => 'דחוף',
+  'Minor' => 'מינור',
+  'Major' => 'גדול',
+  'Feature' => 'תכונה',
+  'Critical' => 'קריטי',
+  'Open' => 'פתח',
+  'Wait For Response' => 'המתן לתגובה',
+  'Closed' => 'סגור',
+  'LBL_STATUS' => 'סטטוס',
+  'LBL_SEVERITY' => 'חומרה',
+  'LBL_CONVERT_FAQ' => 'המר לשאלות נפוצות',
+  'LBL_RELATED_TO' => 'קשור ל',
+  'Ticket ID' => 'מזהה כרטיס',
+  'Hi' => 'היי',
+  'Dear' => 'היקר',
+  'LBL_PORTAL_BODY_MAILINFO' => 'הכרטיס הוא',
+  'LBL_DETAIL' => 'הפרטים הם:',
+  'LBL_REGARDS' => 'בברכה',
+  'LBL_TEAM' => 'צוות HelpDesk',
+  'LBL_TICKET_DETAILS' => 'פרטי כרטיס',
+  'LBL_SUBJECT' => 'נושא :',
+  'created' => 'שנוצר',
+  'replied' => 'השיב',
+  'reply' => 'יש תשובה',
+  'customer_portal' => 'ב "פורטל לקוחות" ב VTiger.',
+  'link' => 'תוכל להשתמש בקישור הבא כדי להציג את התשובות שבוצעו:',
+  'Thanks' => 'תודה',
+  'Support_team' => 'Vtiger צוות תמיכה',
+  'The comments are' => 'ההערות הן',
+  'Ticket Title' => 'כותרת הכרטיס',
+  'Re' => 'Re',
+  'LBL_STATUS_CLOSED' => 'סגור',
+  'LBL_STATUS_UPDATE' => 'סטטוס הכרטיס מתעדכן כ-',
+  'LBL_COULDNOT_CLOSED' => 'הכרטיס לא יכול להיות',
+  'LBL_CUSTOMER_COMMENTS' => 'הלקוח סיפק את המידע הנוסף הבא לתשובתך:',
+  'LBL_RESPOND' => 'חביב להגיב לכרטיס לעיל המוקדם.',
+  'LBL_SUPPORT_ADMIN' => 'מנהל תמיכה',
+  'LBL_RESPONDTO_TICKETID' => 'הגב על מזהה כרטיס',
+  'LBL_RESPONSE_TO_TICKET_NUMBER' => 'תגובה למספר כרטיס',
+  'LBL_TICKET_NUMBER' => 'מספר כרטיס',
+  'LBL_CUSTOMER_PORTAL' => 'בפורטל לקוחות - דחוף',
+  'LBL_LOGIN_DETAILS' => 'להלן פרטי הכניסה של פורטל הלקוחות שלך:',
+  'LBL_MAIL_COULDNOT_SENT' => 'לא ניתן לשלוח את הדואר',
+  'LBL_USERNAME' => 'שם משתמש :',
+  'LBL_PASSWORD' => 'סיסמה :',
+  'LBL_SUBJECT_PORTAL_LOGIN_DETAILS' => 'בנוגע לפרטי ההתחברות של פורטל הלקוחות שלך',
+  'LBL_GIVE_MAILID' => 'תן את מזהה הדוא"ל שלך',
+  'LBL_CHECK_MAILID' => 'בדוק את מזהה האימייל שלך בפורטל הלקוח',
+  'LBL_LOGIN_REVOKED' => 'הכניסה שלך בוטלה. צור קשר עם מנהל המערכת שלך.',
+  'LBL_MAIL_SENT' => 'דואר נשלח למזהה הדואר שלך עם פרטי הכניסה לפורטל הלקוח',
+  'LBL_ALTBODY' => 'זהו הגוף בטקסט רגיל עבור לקוחות דואר שאינם HTML',
+  'HelpDesk ID' => 'מזהה כרטיס',
+  'LBL_ADD_DOCUMENT' => 'הוסף מסמך',
+  'LBL_OPEN_TICKETS' => 'כרטיסים פתוחים',
+  'LBL_CREATE_TICKET' => 'צור כרטיס',
+);
+$jsLanguageStrings = array (
+  'LBL_ADD_DOCUMENT' => 'הוסף מסמך',
+  'LBL_OPEN_TICKETS' => 'כרטיסים פתוחים',
+  'LBL_CREATE_TICKET' => 'צור כרטיס',
+);
