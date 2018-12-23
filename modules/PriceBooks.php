@@ -13,14 +13,14 @@
      ************************************************************************************/
     
 $languageStrings = array (
-  'PriceBooks' => 'ספרים מחיר',
-  'SINGLE_PriceBooks' => 'מחיר הספר',
-  'LBL_ADD_RECORD' => 'הוסף מחיר הספר',
-  'LBL_RECORDS_LIST' => 'מחיר רשימת ספרים',
-  'LBL_PRICEBOOK_INFORMATION' => 'מחיר הספר פרטים',
+  'PriceBooks' => 'מחירון',
+  'SINGLE_PriceBooks' => 'מחירון',
+  'LBL_ADD_RECORD' => 'הוסף מחירון',
+  'LBL_RECORDS_LIST' => 'מחיר מחירון',
+  'LBL_PRICEBOOK_INFORMATION' => 'מחירון פרטים',
   'LBL_EDIT_LIST_PRICE' => 'ערוך מחיר מחירון',
-  'Price Book Name' => 'מחיר שם הספר',
-  'PriceBook No' => 'מספר ספר המחיר',
+  'Price Book Name' => 'שם המחירון',
+  'PriceBook No' => 'מספר מחירון',
   'LBL_UNIT_PRICE' => 'מחיר ליחידה',
   'LBL_ADD_TO' => 'להוסיף ל',
 );

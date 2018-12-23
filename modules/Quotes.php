@@ -13,15 +13,15 @@
      ************************************************************************************/
     
 $languageStrings = array (
-  'Quotes' => 'ציטוטים',
-  'SINGLE_Quotes' => 'ציטוט',
+  'Quotes' => 'הצעות מחיר',
+  'SINGLE_Quotes' => 'הצעת מחיר',
   'LBL_EXPORT_TO_PDF' => 'ייצוא ל- PDF',
   'LBL_SEND_MAIL_PDF' => 'שלח דוא"ל עם PDF',
-  'LBL_ADD_RECORD' => 'הוסף ציטוט',
-  'LBL_RECORDS_LIST' => 'רשימת ציטוטים',
-  'LBL_QUOTE_INFORMATION' => 'ציטוט פרטים',
-  'Quote No' => 'מספר הציטוט',
-  'Quote Stage' => 'ציטוט הבמה',
+  'LBL_ADD_RECORD' => 'הוסף הצעת מחיר',
+  'LBL_RECORDS_LIST' => 'רשימת הצעות מחיר',
+  'LBL_QUOTE_INFORMATION' => 'הצעת מחיר פרטים',
+  'Quote No' => 'מספר ההצעת מחיר',
+  'Quote Stage' => 'הצעת מחיר הבמה',
   'Valid Till' => 'בתוקף עד',
   'Inventory Manager' => 'מנהל מלאי',
   'Related To' => 'קשור ל',
