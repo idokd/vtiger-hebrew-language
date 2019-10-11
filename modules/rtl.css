@@ -1,0 +1,41 @@
+body[data-language="he_il"] .viewContent,
+body[data-language="he_il"] .module-action-content,
+body[data-language="he_il"] .advanceSearchContainer
+{
+    direction: rtl !important;
+}
+
+body[data-language="he_il"] .module-action-content {
+
+}
+
+body[data-language="he_il"] .select2-drop,
+body[data-language="he_il"] .module-action-content,
+body[data-language="he_il"] .profile-container h4,
+body[data-language="he_il"] .profile-container h5,
+body[data-language="he_il"] .profile-container p,
+body[data-language="he_il"] .dropdown-menu,
+body[data-language="he_il"] .app-menu .app-menu-items-wrapper,
+body[data-language="he_il"] .app-item,
+body[data-language="he_il"] .sidebar-essentials,
+body[data-language="he_il"] INPUT,
+body[data-language="he_il"] TH {
+    text-align: right;
+}
+
+body[data-language="he_il"] .module-breadcrumb {
+    text-align: right;
+    direction: rtl;
+}
+
+body[data-language="he_il"] .module-icon,
+body[data-language="he_il"] .app-icon-list {
+    float: left;
+}
+
+body[data-language="he_il"] .app-modules-dropdown li a {
+    padding-left: 10px !important;
+}
+
+.dashboardBanner {display: none;}
+.app-footer {display: none;}
